@@ -1,6 +1,3 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
-// Array para armazenar os nomes dos amigos
-// Array para armazenar os nomes dos amigos
 let amigos = [];
 
 function adicionarAmigo() {
@@ -48,3 +45,4 @@ function sortearAmigo() {
   li.textContent = "O amigo secreto sorteado é: " + sorteado;
   resultadoLista.appendChild(li);
 }
+
